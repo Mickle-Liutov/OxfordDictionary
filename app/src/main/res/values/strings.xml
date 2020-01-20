@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OxfordDictionary</string>
+    <string name="root_of_word">Root of word:</string>
+    <string name="result">Result:</string>
+    <string name="search">Search</string>
+    <string name="word">Word</string>
+    <string name="word_to_search_for">Word to search for:</string>
+</resources>
